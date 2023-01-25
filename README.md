@@ -4,4 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klejdi94&hide_border=true&bg_color=00000000&text_color=3498db&theme=tokyonight&layout=compact&exclude_repo=OS161_Labs&langs_count=10&hide=Gnuplot,QMake,CMake)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+![Foto](https://giphy.com/embed/zOvBKUUEERdNm)
+
