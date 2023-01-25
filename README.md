@@ -4,5 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klejdi94&hide_border=true&bg_color=00000000&text_color=3498db&theme=tokyonight&layout=compact&exclude_repo=OS161_Labs&langs_count=10&hide=Gnuplot,QMake,CMake)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Foto](https://giphy.com/embed/zOvBKUUEERdNm)
+![](https://github.com/klejdi94/klejdi94/blob/master/giphy.gif)
 
