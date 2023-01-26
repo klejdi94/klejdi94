@@ -1,12 +1,9 @@
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Klejdi%20Kristo&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" /></a>
-</p>
+
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Developer;Always%20learning%20new%20skills&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
