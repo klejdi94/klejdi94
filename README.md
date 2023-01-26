@@ -10,7 +10,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=klejdi94&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klejdi94&hide_border=true&bg_color=00000000&text_color=3498db&theme=tokyonight&layout=compact&langs_count=10)](https://git.io/streak-stats)
 
 
 ![](https://github.com/klejdi94/klejdi94/blob/master/giphy-dog.gif)
