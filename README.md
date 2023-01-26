@@ -7,9 +7,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Klejdi%20Kristo;FullStack%20Developer;Always%20learning%20new%20skills&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=FullStack%20Developer;Always%20learning%20new%20skills&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=klejdi94&hide_border=true&background=FF2D2D00&sideLabels=70A3F6&currStreakNum=70A3F6&sideNums=70A3F6&dates=70A3F6&stroke=DD272700)](https://git.io/streak-stats)
