@@ -8,7 +8,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=klejdi94&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=klejdi94&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
